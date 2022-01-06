@@ -37,15 +37,16 @@ times.
 Submit the code to TEACH. 
 
 ## 3. (10 pts) Written report and data analysis 
-   a) Collect running times - Collect your timing data on the engineering flip server. You will need 
+   * Collect running times - Collect your timing data on the engineering flip server. You will need 
 at least eight values of t (time) greater than 0.  If there is variability in the times between runs of 
 the same algorithm you may want to take the average time of several runs for each value of n.  
 Create a table of running times for each algorithm.  Is this best case, worst case or average case 
-running time. 
-   b) Plot data and fit a curve - For each algorithm plot the running time data you collected on an 
+running time.
+
+   * Plot data and fit a curve - For each algorithm plot the running time data you collected on an 
 individual graph with n on the x-axis and time on the y-axis.  You may use Desmos, Matlab, R or any other software. What type of curve best fits each data set?  Give the equation of the curve 
 that best “fits” the data and draw that curve on the graphs. How does your experimental running times compare to the theoretical running times? 
-   c)  Combine - Plot the data from both algorithms together on a combined graph.  If the scales 
-are different you may want to use a log-log plot. 
-   d) Prediction – For each algorithm use your best-fit equations to predict the running time for an 
-array of size n = 500,000. 
+
+   * Combine - Plot the data from both algorithms together on a combined graph.  If the scales are different you may want to use a log-log plot. 
+
+   * Prediction – For each algorithm use your best-fit equations to predict the running time for an array of size n = 500,000. 
